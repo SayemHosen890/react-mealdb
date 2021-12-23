@@ -1,0 +1,11 @@
+.meal-container{
+    display: flex;
+    border-right: 1px solid yellow;
+}
+.meal-container img{
+    width: 500px;
+    height: 300px;
+}
+.detail{
+    margin-right: 30px;
+}
